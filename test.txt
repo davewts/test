@@ -1,3 +1,6 @@
 My test
 More testing
 Another Test
+
+Feature B
+Feature A
